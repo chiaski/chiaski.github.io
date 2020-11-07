@@ -8,6 +8,18 @@ body {
   color: white;
 }
 
+#menu{
+  background: #ea91fa;
+  padding:20px;
+  position: fixed;
+}
+
+#menu a{
+  color: black;
+  font-family: arial;
+  margin-right: 40px;
+}
+
 h1 {
   font-style: italic;
   font-size:18px;
@@ -23,6 +35,9 @@ b{
 #uchiha{
   background-color: red;
   border:10px solid yellow;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
 }
 
 #uchiha:hover{
