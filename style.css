@@ -1,11 +1,19 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+  font-family: Comic Sans MS;
+  background-color: black;
+  color: white;
 }
 
 h1 {
   font-style: italic;
+  font-size:18px;
   color: #373fff;
+  margin: 100px;
+  text-align:center;
+}
+
+b{
+  color: yellow;
 }
